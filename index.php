@@ -53,7 +53,7 @@
             ?>	
         <?php 
             endforeach 
-        ?>
+        ?> 
 
         </div>
 
