@@ -1,0 +1,58 @@
+
+.navbar {
+    font-family: 'Montserrat', serif;
+}
+.navbar-user {
+    background-color: #bcd7d7;
+}
+
+.navbar-site {
+    background-color: #ffddd4;
+}
+
+.navbar .nav-link{
+    text-decoration: none;
+    color: darkslategrey;
+}
+
+.navbar .nav-link:hover{
+    text-decoration: none;
+    color: darkseagreen;
+}
+
+body {
+    font-family: 'Montserrat', serif;
+}
+
+
+
+footer {
+    background-color: #ffddd4;
+    font-family: 'Montserrat', serif;
+}
+
+.footer{
+    
+    bottom: 0;
+    width: 100%;
+
+}
+footer a {
+    text-decoration: none;
+    color: darkslategrey;
+}
+
+footer a:hover {
+    text-decoration: none;
+    color: darkseagreen;
+}
+
+.fa-social {
+    color: darkslategrey;
+    text-decoration: none;
+}
+
+.fa-social:hover {
+    color: darkseagreen;
+    text-decoration: none;
+}
